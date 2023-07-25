@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SVM.iml" filepath="$PROJECT_DIR$/.idea/SVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../attendence_system/.idea/attendence_system (2).iml" filepath="$PROJECT_DIR$/../attendence_system/.idea/attendence_system (2).iml" />
+    </modules>
+  </component>
+</project>
